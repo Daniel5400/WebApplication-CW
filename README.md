@@ -1,7 +1,7 @@
 Library Management System API
-The Library Management System API is a .NET Core RESTful backend service that provides endpoints for managing library resources such as books, users, publishers, librarians, categories, and borrowings. It includes features such as user authentication, authorization, email notifications, and integration with Microsoft Azure for deployment.
+The Library Management System API is a .NET Core RESTful backend service that Executes endpoints for executing library resources such as books, users, publishers, librarians, categories, and borrowings. It includes features such as user authentication, authorization, email notifications, and integration with Microsoft Azure for deployment.
 
-Table of Contents
+Appendix
 Description
 Features
 Prerequisites
